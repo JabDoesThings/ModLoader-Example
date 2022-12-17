@@ -1,0 +1,6 @@
+name=Mod Loader Example
+poster=./poster.png
+description=arf
+id=mod_loader_example
+url=https://www.github.com/asledgehammer
+require=mod_loader

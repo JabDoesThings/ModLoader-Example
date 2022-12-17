@@ -1,0 +1,6 @@
+version=1
+id=2902729387
+title=Mod Loader Example
+description=Example for the Workshop mod: "Mod Loader".
+tags=
+visibility=public
